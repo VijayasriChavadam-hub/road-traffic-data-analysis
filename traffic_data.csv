@@ -1,0 +1,11 @@
+time,location,vehicle_count
+08:00,Highway A,120
+09:00,Highway A,200
+10:00,Highway A,180
+08:00,Highway B,90
+09:00,Highway B,150
+10:00,Highway B,130
+18:00,Highway A,300
+19:00,Highway A,350
+18:00,Highway B,250
+19:00,Highway B,280
